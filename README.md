@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p>Hi, saya Banbarossa saya seorang pencinta baris baris kode. saya sebagai seorang admin di sebuah lembaga pendidikan sejak 10 years ago.</p>
+
+<h3>Skill:</h3>
+<ul>
+  <li>PHP paling menggemari framework laravel, lebih manis jika dibumbui  dengan livewire</li>
+  <li>Suka pake bootstrap (praktis dan ekonomis🤷‍♀️). tapi tailwind is <strong>Amaizing</strong></p>
+</ul>
+
+
