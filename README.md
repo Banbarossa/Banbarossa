@@ -16,7 +16,7 @@ I'm always exploring better ways to bridge development and education.
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="mysql" width="40" height="40"/> </a>
 
-https://freesvg.org/img/1634275856Pop_OS-Logo-nobg.png
+
 
 ## Education
 - (S1) Tarbiyah, STAI Sabili (2008-2012)
