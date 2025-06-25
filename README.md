@@ -1,4 +1,4 @@
-![banner](Pink Black Bold Profile Twitter Header.png)
+![banner](https://github.com/Banbarossa/Banbarossa/blob/main/banner.png?raw=true)
 
 # Hi, Im Khairuddin *Banbarossa* 
 **Hi, I'm a Web Developer and Educator passionate about building impactful web applications with the TALL Stack (Tailwind CSS, Alpine.js, Laravel, and Livewire)**.
