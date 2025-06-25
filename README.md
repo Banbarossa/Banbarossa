@@ -1,4 +1,4 @@
-![banner](https://github.com/Banbarossa/Banbarossa/blob/main/banner.png?raw=true)
+![image](https://github.com/user-attachments/assets/26d68620-1313-464b-9d5e-307b7dabd87a)![banner](https://github.com/Banbarossa/Banbarossa/blob/main/banner.png?raw=true)
 
 # Hi, Im Khairuddin *Banbarossa* 
 **Hi, I'm a Web Developer and Educator passionate about building impactful web applications with the TALL Stack (Tailwind CSS, Alpine.js, Laravel, and Livewire)**.
@@ -14,6 +14,12 @@ I'm always exploring better ways to bridge development and education.
 <a href="https://insomnia.rest/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" alt="insomnia" width="40" height="40"/> </a>
 <a href="https://system76.com/" target="_blank"> <img src="https://freesvg.org/img/1634275856Pop_OS-Logo-nobg.png" alt="pop os" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+## Tech Stacks
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Laravel.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Livewire.svg" alt="livewire" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Alpine.js.svg" alt="alpinejs" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="talwindcss" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="mysql" width="40" height="40"/> </a>
 
 
