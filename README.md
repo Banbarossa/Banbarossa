@@ -1,27 +1,20 @@
-### Hi there 👋
+# Hi, Im Khairuddin *Banbarossa* 
+**Hi, I'm a Web Developer and Educator passionate about building impactful web applications with the TALL Stack (Tailwind CSS, Alpine.js, Laravel, and Livewire)**.
 
-<!--
-**Banbarossa/Banbarossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy creating clean, maintainable, and user-friendly web solutions—whether for educational institutions or open-source communities. As an educator, I strive to bring the power of technology into learning environments, making digital tools more accessible and meaningful.
 
-Here are some ideas to get you started:
+I'm always exploring better ways to bridge development and education.
+* * *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
 
 
-<p>Hi, saya Banbarossa saya seorang pencinta baris baris kode. saya sebagai seorang admin di sebuah lembaga pendidikan sejak 10 years ago.</p>
+***
+## Education
+#### (S1) Tarbiyah, STAI Sabili (2008-2012)
+#### (S1) Hukum Ekonomi Syariah (On Process)
+### (SMA) Pesantren Ilam Ar Rabwah
 
-<h3>Skill:</h3>
-<ul>
-  <li>PHP paling menggemari framework laravel, lebih manis jika dibumbui  dengan livewire</li>
-  <li>Suka pake bootstrap (praktis dan ekonomis🤷‍♀️). tapi tailwind is <strong>Amaizing</strong></p>
-</ul>
 
 
