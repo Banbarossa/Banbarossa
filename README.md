@@ -6,7 +6,7 @@
 I enjoy creating clean, maintainable, and user-friendly web solutions—whether for educational institutions or open-source communities. As an educator, I strive to bring the power of technology into learning environments, making digital tools more accessible and meaningful.
 
 I'm always exploring better ways to bridge development and education.
-* * *
+
 
 ## Tools
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
@@ -17,11 +17,11 @@ I'm always exploring better ways to bridge development and education.
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
 
 
-***
+
 ## Education
-#### (S1) Tarbiyah, STAI Sabili (2008-2012)
-#### (S1) Hukum Ekonomi Syariah (On Process)
-### (SMA) Pesantren Ilam Ar Rabwah
+- (S1) Tarbiyah, STAI Sabili (2008-2012)
+- (S1) Hukum Ekonomi Syariah (On Process)
+- (SMA) Pesantren Ilam Ar Rabwah
 
 
 
