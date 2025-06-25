@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/26d68620-1313-464b-9d5e-307b7dabd87a)![banner](https://github.com/Banbarossa/Banbarossa/blob/main/banner.png?raw=true)
+![banner](https://github.com/Banbarossa/Banbarossa/blob/main/banner.png?raw=true)
 
 # Hi, Im Khairuddin *Banbarossa* 
 **Hi, I'm a Web Developer and Educator passionate about building impactful web applications with the TALL Stack (Tailwind CSS, Alpine.js, Laravel, and Livewire)**.
