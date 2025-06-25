@@ -11,12 +11,12 @@ I'm always exploring better ways to bridge development and education.
 ## Tools
 <a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-<a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a>
-<a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a>
+<a href="https://insomnia.rest/" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Insomnia.svg" alt="insomnia" width="40" height="40"/> </a>
+<a href="https://system76.com/" target="_blank"> <img src="https://freesvg.org/img/1634275856Pop_OS-Logo-nobg.png" alt="pop os" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
 
-
+https://freesvg.org/img/1634275856Pop_OS-Logo-nobg.png
 
 ## Education
 - (S1) Tarbiyah, STAI Sabili (2008-2012)
